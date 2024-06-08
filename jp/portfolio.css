@@ -1,0 +1,76 @@
+.nav-link {
+    font-size: 20px;
+}
+
+.menu {
+    background-color: gray;
+   
+}
+.a1{
+    background-image: url("assest/background\ folio.avif");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+#j{
+    background-attachment: fixed;
+  
+}
+.iconser{  
+    font-size: 60px;
+     cursor: pointer;
+}
+
+.linediv{
+    height: 70%;
+    width: 2%;
+    margin: 100px;
+}
+.linediv1{
+    background-color: aqua;
+    rotate: 180;
+    height: 70%;
+    width: 2%;
+    margin: 100px;
+}
+.social-icons {
+    font-size: 25px;
+    cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+    color: #008000;
+}
+.fab {
+    color: #000000;
+}
+.nav{
+    
+    margin-left: 42%;
+}
+.nav:hover{
+    color: green; 
+}
+.testima{
+    width: 105px;
+    height: 105px;
+    border-radius: 50px;
+}
+#home1:hover{
+    color: #008000;
+}
+#about12:hover{
+    color: #008000;
+}
+#Resume1:hover{
+    color: #008000;
+}
+#service1:hover{
+    color: #008000;
+}
+#portfolio1:hover{
+    color: #008000;
+}
+#contact1:hover{
+    color: #008000;
+}
